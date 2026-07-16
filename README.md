@@ -28,8 +28,9 @@ Aplicación web de agendamiento de entrevistas con backend propio y base de dato
 
 ## Sobre mí
 
-- Emprendí un negocio de importación y venta mayorista de smartphones partiendo de **$100 y sin experiencia previa**, escalando de revendedor a proveedor directo de tiendas a nivel nacional.
-- Me apasiona cuestionar los datos, detectar anomalías y convertir información en recomendaciones concretas de negocio.
-- Busco roles donde el análisis de datos y la automatización impulsen mejores decisiones comerciales.
+- Emprendí un negocio de importación y venta mayorista de smartphones partiendo de **$100 y sin experiencia previa**, escalando de revendedor a proveedor directo de tiendas minoristas.
+- Tengo un MicroMaster en Supply Chain Management del MIT (Massachusetts Institute of Technology), con proyección al GCLOG y un máster.
+- Me apasiona analizar datos, detectar anomalías y convertir información en insights valiosos.
+- Entusiasta deSupply Chain y Data Analytics.
 
 **marcel2701rojas@gmail.com**
